@@ -1,0 +1,1 @@
+web: gunicorn line_faq_bot:app
